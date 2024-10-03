@@ -1,0 +1,18 @@
+codes
+
+Push :
+
+pa = 0
+pb = 1
+
+rr = 2
+ra = 3
+rb = 4
+
+rrr = 5
+rra = 6
+rrb = 7
+
+sa = 8
+sb = 9
+ss = 10
